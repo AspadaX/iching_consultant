@@ -17,7 +17,12 @@ The response from the LLM is printed to the console and also saved to a timestam
 
 ## Example
 
-Run the script and enter an inquiry when prompted:
+Run the script:
+```
+python3 webui.py
+```
+A WebUI will be launched on localhost:7860 by default. So access it via your browser.
+Then, enter an inquiry when prompted:
 
 ```
 I want to change careers
