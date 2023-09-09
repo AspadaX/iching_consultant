@@ -13,7 +13,7 @@ The response from the LLM is printed to the console and also saved to a timestam
 - Anthropic API key (set as environment variable `ANTHROPIC_API_KEY`) OR
 - OpenAI API key (set as environment variable `OPENAI_API_KEY`) OR
 - Your locally deployed LLM on Text Generation WebUI with the OpenAI API plugin enabled
-- `anthropic` and `openai` Python packages
+- `gradio`,`anthropic` and `openai` Python packages
 
 ## Example
 
